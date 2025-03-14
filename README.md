@@ -51,6 +51,7 @@ After you are done, the result is calculated and displayed. It includes WPM(word
 
 ## ➡️ Live Link
 ### https://typingspeedtest-js.netlify.app/
+### https
 
 <br>
 
