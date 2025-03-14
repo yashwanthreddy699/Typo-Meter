@@ -25,7 +25,7 @@ After you are done, the result is calculated and displayed. It includes WPM(word
 ## ➡️ Languages/Technologies
 - HTML
 - CSS 
-- Vanilla JS
+- JS
 - VScode
 - Netlify (for hosting)
 
